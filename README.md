@@ -1,5 +1,5 @@
 # Robotic_Arm
-# Simulation of a robotic arm 
+## Simulation of a robotic arm 
 
 The arm has 7 joints:
  - 3 revolut
